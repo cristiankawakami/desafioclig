@@ -11,3 +11,5 @@ docker-composer up -d
 O sistema está disponível no endereço 
 
 http://0.0.0.0:4500/livraria/web
+
+O código fonte do sistema está no volume www/livraria
